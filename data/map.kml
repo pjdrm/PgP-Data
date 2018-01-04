@@ -2,13 +2,13 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>Regions</name>
-    <Style id="poly-000000-1200-77-nodesc-normal">
+    <Style id="poly-AFB42B-1200-77-nodesc-normal">
       <LineStyle>
-        <color>ff000000</color>
+        <color>ff2bb4af</color>
         <width>1.2</width>
       </LineStyle>
       <PolyStyle>
-        <color>4d000000</color>
+        <color>4d2bb4af</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
@@ -16,13 +16,13 @@
         <text><![CDATA[<h3>$[name]</h3>]]></text>
       </BalloonStyle>
     </Style>
-    <Style id="poly-000000-1200-77-nodesc-highlight">
+    <Style id="poly-AFB42B-1200-77-nodesc-highlight">
       <LineStyle>
-        <color>ff000000</color>
+        <color>ff2bb4af</color>
         <width>1.8</width>
       </LineStyle>
       <PolyStyle>
-        <color>4d000000</color>
+        <color>4d2bb4af</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
@@ -30,47 +30,155 @@
         <text><![CDATA[<h3>$[name]</h3>]]></text>
       </BalloonStyle>
     </Style>
-    <StyleMap id="poly-000000-1200-77-nodesc">
+    <StyleMap id="poly-AFB42B-1200-77-nodesc">
       <Pair>
         <key>normal</key>
-        <styleUrl>#poly-000000-1200-77-nodesc-normal</styleUrl>
+        <styleUrl>#poly-AFB42B-1200-77-nodesc-normal</styleUrl>
       </Pair>
       <Pair>
         <key>highlight</key>
-        <styleUrl>#poly-000000-1200-77-nodesc-highlight</styleUrl>
+        <styleUrl>#poly-AFB42B-1200-77-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-CE93D8-1200-77-nodesc-normal">
+      <LineStyle>
+        <color>ffd893ce</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4dd893ce</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-CE93D8-1200-77-nodesc-highlight">
+      <LineStyle>
+        <color>ffd893ce</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4dd893ce</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-CE93D8-1200-77-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-CE93D8-1200-77-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-CE93D8-1200-77-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-F57C00-1200-77-nodesc-normal">
+      <LineStyle>
+        <color>ff007cf5</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d007cf5</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-F57C00-1200-77-nodesc-highlight">
+      <LineStyle>
+        <color>ff007cf5</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d007cf5</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-F57C00-1200-77-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-F57C00-1200-77-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-F57C00-1200-77-nodesc-highlight</styleUrl>
       </Pair>
     </StyleMap>
     <Placemark>
-      <name>alameda</name>
-      <styleUrl>#poly-000000-1200-77-nodesc</styleUrl>
+      <name>alameda-areeiro-gulbenkian</name>
+      <styleUrl>#poly-CE93D8-1200-77-nodesc</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
             <tessellate>1</tessellate>
             <coordinates>
-              -9.1474915,38.7429044,0
-              -9.1448736,38.7339332,0
-              -9.1280508,38.7364774,0
-              -9.1301107,38.742737,0
-              -9.1474915,38.7429044,0
+              -9.1631126,38.7456156,0
+              -9.1573191,38.7378834,0
+              -9.1525126,38.733498,0
+              -9.1296816,38.7353727,0
+              -9.1278362,38.7382516,0
+              -9.1273212,38.743942,0
+              -9.1320848,38.7487283,0
+              -9.1464615,38.7495316,0
+              -9.1536283,38.7488287,0
+              -9.1631126,38.7456156,0
             </coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
     </Placemark>
     <Placemark>
-      <name>areeiro</name>
-      <styleUrl>#poly-000000-1200-77-nodesc</styleUrl>
+      <name>campo-grande-alvalade</name>
+      <styleUrl>#poly-AFB42B-1200-77-nodesc</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
             <tessellate>1</tessellate>
             <coordinates>
-              -9.1475344,38.7432056,0
-              -9.1302395,38.7431052,0
-              -9.1316128,38.7495985,0
-              -9.1481352,38.7494647,0
-              -9.1475344,38.7432056,0
+              -9.1716528,38.7599063,0
+              -9.1631126,38.7456156,0
+              -9.1536283,38.7488287,0
+              -9.1464615,38.7495316,0
+              -9.1320848,38.7487283,0
+              -9.1324711,38.7544514,0
+              -9.1353893,38.7601071,0
+              -9.1407108,38.7626838,0
+              -9.1481352,38.7634534,0
+              -9.1632414,38.7622153,0
+              -9.1716528,38.7599063,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>arroios-penha-franca</name>
+      <styleUrl>#poly-F57C00-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -9.1481352,38.7309872,0
+              -9.1422129,38.7243248,0
+              -9.1331148,38.7218807,0
+              -9.1196394,38.7288781,0
+              -9.1221714,38.7332637,0
+              -9.1296816,38.7353727,0
+              -9.1483927,38.7338495,0
+              -9.1481352,38.7309872,0
             </coordinates>
           </LinearRing>
         </outerBoundaryIs>
