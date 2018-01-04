@@ -1,4 +1,12 @@
 {
-  "alameda": [],
-  "areeiro": []
+  "alameda-areeiro-gulbenkian": [
+    "campo-grande-alvalade",
+    "arroios-penha-franca"
+  ],
+  "campo-grande-alvalade": [
+    "alameda-areeiro-gulbenkian"
+  ],
+  "arroios-penha-franca": [
+    "alameda-areeiro-gulbenkian"
+  ]
 }
