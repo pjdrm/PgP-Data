@@ -4,7 +4,7 @@
 		"is_ex": false
      },
 	"2828083": {
-		"nickname": "Fountain",
+		"nickname": "Fountain (Entre Campos)",
 		"is_ex": true
      },
 	"2828086": {
@@ -85,7 +85,7 @@
      },
 	"2828522": {
 		"nickname": "Estátua do Jardim Constantino",
-		"is_ex": false
+		"is_ex": true
      },
 	"2828524": {
 		"nickname": "Saldanha Archway",
@@ -247,6 +247,10 @@
 		"nickname": "Contrapunto",
 		"is_ex": false
      },
+	"2829172": {
+		"nickname": "Hidroplano",
+		"is_ex": true
+     },
 	"2829440": {
 		"nickname": "Ldis?",
 		"is_ex": false
@@ -300,6 +304,14 @@
 		"nickname": "Mosaico",
 		"is_ex": false
      },
+	"2830677": {
+		"nickname": "Horses",
+		"is_ex": true
+     },
+	"2830736": {
+		"nickname": "Quinta Dos Lilases",
+		"is_ex": true
+     },
 	"2830747": {
 		"nickname": "Clube Naval de Lisboa",
 		"is_ex": false
@@ -339,6 +351,10 @@
 	"2830944": {
 		"nickname": "Entrada do Clube de Jovens",
 		"is_ex": false
+     },
+     	"2830997": {
+		"nickname": "Parque Desportivo",
+		"is_ex": true
      },
 	"2831009": {
 		"nickname": "Family Frieze",
