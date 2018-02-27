@@ -99,8 +99,8 @@
 		"is_ex": false
      },
 	"2828543": {
-		"nickname": "Jardim Henrique Lopes de Mendonça",
-		"additional_terms": "Jardim Henrique Lopes de Mendonca",
+		"nickname": "Liceu Camões (Jardim Henrique Lopes de Mendonça"),
+		"additional_terms": "Liceu Camoes Jardim Henrique Lopes de Mendonca",
 		"is_ex": true
      },
 	"2828546": {
@@ -139,7 +139,8 @@
 		"is_ex": false
      },
 	"2828744": {
-		"nickname": "The Muse",
+		"nickname": "Portugália (The Muse)",
+		"additional_terms": "Portugalia"
 		"is_ex": false
      },
 	"2828745": {
