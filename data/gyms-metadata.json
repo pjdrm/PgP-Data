@@ -7,7 +7,7 @@
 		"nickname": "Fountain (Entre Campos)",
 		"is_ex": true
      },
-	"2828086": {
+	"2828086": 
 		"nickname": "Estação Roma Areeiro",
 		"additional_terms": "Estacao Roma Areeiro",
 		"is_ex": false
@@ -140,7 +140,7 @@
      },
 	"2828744": {
 		"nickname": "Portugália (The Muse)",
-		"additional_terms": "Portugalia"
+		"additional_terms": "Portugalia",
 		"is_ex": false
      },
 	"2828745": {
