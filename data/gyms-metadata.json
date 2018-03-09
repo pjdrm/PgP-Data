@@ -53,7 +53,7 @@
 		"is_ex": false
 	},
 	"2828439": {
-		"nickname": "Use Solar Power Street Art",
+		"nickname": "Dominos (Use Solar Power Street Art)",
 		"is_ex": false
 	},
 	"2828444": {
@@ -222,7 +222,8 @@
 		"is_ex": false
 	},
 	"2828941": {
-		"nickname": "Igreja de S J de Brito",
+		"nickname": "Igreja de São João de Brito",
+		"additional_terms": "Igreja de Sao Joao de Brito",
 		"is_ex": false
 	},
 	"2828959": {
