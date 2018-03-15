@@ -9,7 +9,7 @@
 	},
 	"2828086": {
 		"nickname": "Estação Roma Areeiro",
-		"additional_terms": "Estacao Roma Areeiro",
+		"additional_terms": "Estacao Roma Areeiro Estação",
 		"is_ex": false
 	},
 	"2828091": {
@@ -30,6 +30,7 @@
 	},
 	"2828105": {
 		"nickname": "Primeiro de Maio",
+		"additional_terms": "1º 1",
 		"is_ex": false
 	},
 	"2828113": {
@@ -240,7 +241,7 @@
 		"is_ex": false
 	},
 	"2828996": {
-		"nickname": "CGD",
+		"additional_terms": "CGD Caixa Geral de Depositos Depósitos",
 		"is_ex": false
 	},
 	"2829020": {
