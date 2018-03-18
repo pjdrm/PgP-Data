@@ -51,7 +51,7 @@
 	},
 	"2828438": {
 		"nickname": "Metro Alameda",
-		"is_ex": false
+		"is_ex": true
 	},
 	"2828439": {
 		"nickname": "Dominos (Use Solar Power Street Art)",
@@ -413,7 +413,7 @@
 	},
 	"2831206": {
 		"nickname": "Universitas",
-		"is_ex": false
+		"is_ex": true
 	},
 	"2831220": {
 		"nickname": "NOS",
@@ -426,7 +426,7 @@
 	},
 	"2831245": {
 		"nickname": "Jogador de Futebol",
-		"is_ex": false
+		"is_ex": true
 	},
 	"2831297": {
 		"nickname": "Centro Ismaili",
@@ -461,7 +461,7 @@
 	"2831368": {
 		"nickname": "Ator António Pedro",
 		"additional_terms": "Ator Antonio Pedro",
-		"is_ex": false
+		"is_ex": true
 	},
 	"2831432": {
 		"nickname": "Tribunal Cível",
