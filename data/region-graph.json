@@ -1,12 +1,12 @@
 {
-  "alameda-areeiro-gulbenkian": [
-    "campo-grande-alvalade",
-    "arroios-penha-franca"
-  ],
-  "campo-grande-alvalade": [
+  "arroios-penha-franca": [
     "alameda-areeiro-gulbenkian"
   ],
-  "arroios-penha-franca": [
+  "alameda-areeiro-gulbenkian": [
+    "arroios-penha-franca",
+    "campo-grande-alvalade"
+  ],
+  "campo-grande-alvalade": [
     "alameda-areeiro-gulbenkian"
   ]
 }
