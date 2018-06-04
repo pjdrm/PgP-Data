@@ -1,12 +1,40 @@
 {
-  "arroios-penha-franca": [
-    "alameda-areeiro-gulbenkian"
+  "zoo": [
+    "alameda-areeiro-gulbenkian",
+    "campo-grande-quinta",
+    "marques-avenida-baixa",
+    "belem"
   ],
   "alameda-areeiro-gulbenkian": [
-    "arroios-penha-franca",
-    "campo-grande-alvalade"
+    "zoo",
+    "campo-grande-quinta",
+    "santa-apolonia",
+    "marques-avenida-baixa"
   ],
-  "campo-grande-alvalade": [
-    "alameda-areeiro-gulbenkian"
+  "campo-grande-quinta": [
+    "zoo",
+    "alameda-areeiro-gulbenkian",
+    "santa-apolonia",
+    "parque-das-nacoes"
+  ],
+  "santa-apolonia": [
+    "alameda-areeiro-gulbenkian",
+    "campo-grande-quinta",
+    "parque-das-nacoes",
+    "marques-avenida-baixa"
+  ],
+  "parque-das-nacoes": [
+    "campo-grande-quinta",
+    "santa-apolonia"
+  ],
+  "marques-avenida-baixa": [
+    "zoo",
+    "alameda-areeiro-gulbenkian",
+    "santa-apolonia",
+    "belem"
+  ],
+  "belem": [
+    "zoo",
+    "marques-avenida-baixa"
   ]
 }
