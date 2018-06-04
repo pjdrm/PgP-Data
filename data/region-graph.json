@@ -1,17 +1,17 @@
 {
   "zoo": [
     "alameda-areeiro-gulbenkian",
-    "campo-grande-quinta",
+    "campo-grande-conchas",
     "marques-avenida-baixa",
     "belem"
   ],
   "alameda-areeiro-gulbenkian": [
     "zoo",
-    "campo-grande-quinta",
+    "campo-grande-conchas",
     "santa-apolonia",
     "marques-avenida-baixa"
   ],
-  "campo-grande-quinta": [
+  "campo-grande-conchas": [
     "zoo",
     "alameda-areeiro-gulbenkian",
     "santa-apolonia",
@@ -19,12 +19,12 @@
   ],
   "santa-apolonia": [
     "alameda-areeiro-gulbenkian",
-    "campo-grande-quinta",
+    "campo-grande-conchas",
     "parque-das-nacoes",
     "marques-avenida-baixa"
   ],
   "parque-das-nacoes": [
-    "campo-grande-quinta",
+    "campo-grande-conchas",
     "santa-apolonia"
   ],
   "marques-avenida-baixa": [
